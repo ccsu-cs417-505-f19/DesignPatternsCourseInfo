@@ -95,7 +95,7 @@ There will be a number of interim checkpoints during the semester to ensure you 
 
 **Development practice:** The vast majority of projects you encounter outside of the classroom require working in teams and an evolving code base. Within this class you will learn how to use the Git source control system for collaboration and maintaining your code evolution. Given the importance of understanding the additional complexity when there are multiple people working on the same code base, for the majority of assignments you will be **_required_ to work in teams**. In addition to using Git to submit your final deliverables, each student will be expected to use source control properly throughout the development process. **Unlike many classes where you are evaluated just on the final deliverable, expect to be evaluated on whether you followed good development practices along the way as well.**
 
-**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **October 16th** and the final exam will be at the university scheduled time ** XXXX **. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
+**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **October 16th** and the final exam will be at the university scheduled time **December 9th 5:30-7:30**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
 
 **Attendance:** I expect students to attend class sessions regularly. ***For each absence (unless university excused) over 3 your overall final grade will be reduced by 1/4th of a letter grade. Skipping classes can seriously affect your final grade!*** If you are going to miss class please email me before class. Each student is responsible for making-up any missed study or work on their own. Limited assistance will be offered to those with plausible reasons for absences; unexcused absences result in the student being totally responsible for the make-up process. You are responsible for all announcements and material covered in the event that you do miss class, and should get that information from one of your classmates. In the event of a weather emergency that requires curtailment or cancellation of classes, listen to WTIC (1080 AM) or call (860) 832-3333.
 
@@ -251,6 +251,6 @@ http://www.ccsu.edu/academicintegrity/
 
 **Final Exam**
 
--   TBD (university set time)
+-   Monday December 9th
 
     -   5:30-7:30pm
