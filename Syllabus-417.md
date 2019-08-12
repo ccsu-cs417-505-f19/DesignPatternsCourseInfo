@@ -1,30 +1,28 @@
 _Central Connecticut State University_
 # CS 417 Design Patterns
-## Fall 2018
+## Fall 2019
 
 **Instructor:** Dr. Chad Williams, Department of Computer Science
 
 **Office:** MS 303 Phone: 860-832-2719
 
-**Office hours**: MW 1:30-2:30; TR 10:30-12:00; and by appointment.
+**Office hours**: TBD; and by appointment.
 
 **e-mail:** cwilliams@ccsu.edu
 
 **Course website:**
   * Blackboard https://ccsu.blackboard.com/
-  * GitHub course home https://github.com/CCSU-CS417-505-F18/DesignPatternsF18CourseInfo
-    *  See the Git readme https://github.com/CCSU-CS417-505-F18/DesignPatternsF18CourseInfo/blob/master/Git-ReadMe.md
+  * GitHub course home https://github.com/CCSU-CS417-505-F19/DesignPatternsCourseInfo
+    *  See the Git readme https://github.com/CCSU-CS417-505-F19/DesignPatternsCourseInfo/blob/master/Git-ReadMe.md
 
 
 **Class:** 4:30-5:45pm Monday and Wednesday in MS 204
 
-**Required book:**
-
-Gamma, Helm, Johnson, and Vlissides. “Design Patterns: Elements of Reusable Object-Oriented Software” (1994) - *informally known as “The Bible by The Gang of 4” when it comes to design patterns*.
-
 **Optional book:**
 
-Jia. “Object-Oriented Software Development using Java, 2nd ed.” Addison-Wesley (2002). - *covers a couple additional patterns we will cover and provides some guidance on implementation of the patterns although Java libraries used are dated.*
+*You will be able to find all lecture content, examples, and patterns via this GitHub website.  However you may want the book these are based on, as many software architects do, as a reference throughout their career.*
+
+Gamma, Helm, Johnson, and Vlissides. “Design Patterns: Elements of Reusable Object-Oriented Software” (1994) - *informally known as “The Bible by The Gang of 4” when it comes to design patterns*.
 
 **Course description:** The focus of the course will be on moving from basic OO programming to developing an in depth knowledge of how to use advanced OO design patterns. Students will develop a better understanding of how to apply OO techniques including abstraction, encapsulation, modularity, message passing, polymorphism, inheritance, and exception handling. Students will be introduced to a broad array of proven design patterns, when they should be used, and how to implement them in practice. These patterns will include: Singleton, Template, Strategy, Iterator, Factory, and Delegation. Students will also learn how to incorporate the Collections, Generics, Composite, Comparators, and MVC frameworks. Most importantly, students will learn to evaluate what makes each design pattern appropriate for a particular application.
 
@@ -93,11 +91,11 @@ Each assignment is due at the beginning of class of the day listed unless otherw
 
 **Final project:** There will be a large final project that will last most of the semester and require integrating the knowledge you gain throughout the semester. For the final project you will be building a project of your choosing that demonstrates the concepts covered in class. There is a basic structure I want to see for a couple of key things related to using good software development techniques, but I am leaving the details up to you. While I will specify a couple of required design patterns be used, other aspects such as good design to support other principles we have talked about like encapsulation will also factor into the grade. **A critical part of the project is good development practices:** proper use of source control and automated testing.  At the end of the semester your group will present your project to the class.
 
-There will be a number of interim checkpoints during the semester to ensure you are on track. The dates of these will be announced later during the semester.  The final project component of the grade will be split among the checkpoints and the heavily weighted demo of your project that will be made at the beginning of class Monday, December 4th.
+There will be a number of interim checkpoints during the semester to ensure you are on track. The dates of these will be announced later during the semester.  The final project component of the grade will be split among the checkpoints and the heavily weighted demo of your project that will be made at the beginning of class Monday, December 2nd.
 
 **Development practice:** The vast majority of projects you encounter outside of the classroom require working in teams and an evolving code base. Within this class you will learn how to use the Git source control system for collaboration and maintaining your code evolution. Given the importance of understanding the additional complexity when there are multiple people working on the same code base, for the majority of assignments you will be **_required_ to work in teams**. In addition to using Git to submit your final deliverables, each student will be expected to use source control properly throughout the development process. **Unlike many classes where you are evaluated just on the final deliverable, expect to be evaluated on whether you followed good development practices along the way as well.**
 
-**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **Monday, October 15th** and the final exam will be at the university scheduled time **Monday, December 12th 5:30-7:30pm**. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
+**Exams:** There will be a midterm and a final exam in addition to a final project. These will focus on whether you have understood the material and learned from your mistakes. The midterm will be **October 16th** and the final exam will be at the university scheduled time ** XXXX **. If a student misses the midterm they will receive a 0 unless they have specifically talked with me ahead of time and submit a written request.
 
 **Attendance:** I expect students to attend class sessions regularly. ***For each absence (unless university excused) over 3 your overall final grade will be reduced by 1/4th of a letter grade. Skipping classes can seriously affect your final grade!*** If you are going to miss class please email me before class. Each student is responsible for making-up any missed study or work on their own. Limited assistance will be offered to those with plausible reasons for absences; unexcused absences result in the student being totally responsible for the make-up process. You are responsible for all announcements and material covered in the event that you do miss class, and should get that information from one of your classmates. In the event of a weather emergency that requires curtailment or cancellation of classes, listen to WTIC (1080 AM) or call (860) 832-3333.
 
@@ -133,11 +131,11 @@ http://www.ccsu.edu/academicintegrity/
 
 -   **Keep all returned work to help you to study for the exams**
 
-### Tentative class outline and assignments
+### Tentative class outline and assignments - The order patterns are covered may change if particular pattern(s) would be useful earlier based on the specific final projects being pursued.
 
 ***Please note assignment dates are only to give you an idea of what assignments will cover and approximate time frame, actual dates will be set as the semester progresses***
 
-**Week 1 week of August 27**
+**Week 1 week of August 26**
 
 -   Introduction and fit into RUP process
 
@@ -145,19 +143,19 @@ http://www.ccsu.edu/academicintegrity/
 
 -   UML modeling
 
-**Week 2 week of September 3**
+**Week 2 week of September 2**
 
--   *Labor day - No class Monday September 3rd*
+-   *Labor day - No class Monday September 2nd*
 
 -   UML modeling cont.
 
 -   Assignment 0 - GitHub id
 
-**Week 3 week of September 10**
+**Week 3 week of September 9**
 
 -   UML modeling cont.
 
-**Week 4 week of September 17**
+**Week 4 week of September 16**
 
 -   Dynamic UML
 
@@ -167,13 +165,13 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 1 - Git and UML basics*
 
-**Week 5 week of September 24**
+**Week 5 week of September 23**
 
 -   Exception handling
 
 -   Chain of responsibility
 
-**Week 6 week of October 1**
+**Week 6 week of September 30**
 
 -   Generic refactoring
 
@@ -181,7 +179,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Strategy
 
-**Week 7 week of October 8**
+**Week 7 week of October 7**
 
 -   Strategy cont.
 
@@ -189,13 +187,13 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Assignment 2 - UML, implementation, testing*
 
-**Week 8 week of October 15**
+**Week 8 week of October 14**
 
 -   Singleton
 
--   **Midterm Monday 15th**
+-   ***Midterm October 16***
 
-**Week 9 week of October 22**
+**Week 9 week of October 21**
 
 -   Iterator
 
@@ -205,7 +203,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Generics
 
-**Week 10 week of October 29**
+**Week 10 week of October 28**
 
 -   Adapter
 
@@ -217,7 +215,7 @@ http://www.ccsu.edu/academicintegrity/
 
 -   *Final project sprint 1*
 
-**Week 11 week of November 5**
+**Week 11 week of November 4**
 
 -   Factory method
 
@@ -225,28 +223,27 @@ http://www.ccsu.edu/academicintegrity/
 
 -   Builder
 
-**Week 12 week of November 12**
+**Week 12 week of November 11**
 
 -   Visitor
 
 -   Flyweight
 
--   State
 
 -   *Final project sprint 2*
 
-**Week 13 week of November 19**
+**Week 13 week of November 18**
+-   State
+
+**Week 14 week of November 25**
+-   Bringing it all together
+
+-   *Final project sprint 3*
 
 - *Thanksgiving recess*
 
-
-**Week 14 week of November 26**
--   Bringing it all together
--   *Final project sprint 3*
-
-**Week 15 week of December 3**
-
--   ***Final projects due 12/3***
+**Week 15 week of December 2**
+-   ***Final projects due 12/2***
 
 -   Final project presentations
 
@@ -254,6 +251,6 @@ http://www.ccsu.edu/academicintegrity/
 
 **Final Exam**
 
--   Monday, December 10th
+-   TBD (university set time)
 
     -   5:30-7:30pm
