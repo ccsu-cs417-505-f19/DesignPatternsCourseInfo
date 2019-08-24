@@ -6,7 +6,7 @@ _Central Connecticut State University_
 
 **Office:** MS 303 Phone: 860-832-2719
 
-**Office hours**: TBD; and by appointment.
+**Office hours**: MW: 1:00-2:30, TR 1:30-2:30, and by appointment.
 
 **e-mail:** cwilliams@ccsu.edu
 
