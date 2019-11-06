@@ -20,6 +20,12 @@ public class Main {
     enhancements.add(VehicleEnhancement.COMFORT);
     MotorVehicleDirector.build4DoorCar(builder, enhancements);
     MotorizedVehicle bmwM5 = builder.build("BMW M5");
+    
+    builder = new MotorizedVehicle.MotorizedVehicleBuilder();
+    enhancements = new HashSet<VehicleEnhancement>();
+    enhancements.add(VehicleEnhancement.COMFORT);
+    MotorVehicleDirector.build4DoorCar(builder, enhancements);
+    MotorizedVehicle caddy = builder.build("Cadillac");
 
     builder = new MotorizedVehicle.MotorizedVehicleBuilder();
     MotorVehicleDirector.buildHatchback(builder, new HashSet<VehicleEnhancement>());
@@ -37,6 +43,7 @@ public class Main {
 
     System.out.println(ferrari.toString());
     System.out.println(bmwM5.toString());
+    System.out.println(caddy.toString());
     System.out.println(fordEscort.toString());
     System.out.println(harley.toString());
     System.out.println(truck.toString());
